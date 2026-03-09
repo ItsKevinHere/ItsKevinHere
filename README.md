@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=booting+KevinOS...;initializing+developer+environment...;loading+backend+modules...;Node.js+%7C+Java+%7C+APIs;Bem-vindo(a)+ao+meu+perfil" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil...;booting+KevinOS...;initializing+developer+environment...;loading+backend+modules...;Node.js+%7C+Java+%7C+APIs;" />
 </p>
 
 <h1 align="center">👨‍💻 Kevin Michaelsen</h1>
