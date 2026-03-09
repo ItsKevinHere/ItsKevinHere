@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil...;booting+KevinOS...;initializing+developer+environment...;loading+backend+modules...;Node.js+%7C+Java+%7C+APIs;" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=Bem+vindo(a)+ao+meu+perfil...;booting+KevinOS...;initializing+developer+environment...;loading+backend+modules...;Node.js+%7C+Java+%7C+APIs;" />
+
 </p>
 
 <h1 align="center">👨‍💻 Kevin Michaelsen</h1>
@@ -43,4 +45,12 @@ localização Brasil
 </p>
 
 🐍 Contribuições
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</p>
